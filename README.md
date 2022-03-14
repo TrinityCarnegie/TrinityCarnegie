@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Projects
-1. A Cocktail Recipe App: https://github.com/TrinityCarnegie/TheHappyHourApp.git
+1. A Cordova based cocktail recipe app: https://github.com/TrinityCarnegie/TheHappyHourApp.git
