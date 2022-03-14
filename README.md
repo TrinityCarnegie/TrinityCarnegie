@@ -1,3 +1,4 @@
+# Intro
 - 👋 Hi, I’m @TrinityCarnegie
 - 👀 I’m interested in web and mobile app developement
 - 💖 In my free time you can find me watching anime, baking, and reading up on fashion trends
@@ -7,4 +8,5 @@ TrinityCarnegie/TrinityCarnegie is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-#Projects
+# Projects
+1. A Cocktail Recipe App: https://github.com/TrinityCarnegie/TheHappyHourApp.git
